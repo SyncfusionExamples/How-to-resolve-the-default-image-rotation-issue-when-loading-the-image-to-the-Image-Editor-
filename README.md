@@ -5,15 +5,15 @@ The reason for this issue, the specific image containing the EXIF metadata orien
 
 Before resolving the image rotation at load time.
 
-![BeforeResolvingImageRotation](https://github.com/SyncfusionExamples/How-to-resolve-the-default-image-rotation-issue-when-loading-the-image-to-the-Image-Editor-/tree/main/OutputImages/BeforeResolvingImageRotation.jpg)
+![BeforeResolvingImageRotation](OutputImages/BeforeResolvingImageRotation.jpg)
 
 After resolving the image rotation at load time.
 
-![AfterResolvingImageRotation](https://github.com/SyncfusionExamples/How-to-resolve-the-default-image-rotation-issue-when-loading-the-image-to-the-Image-Editor-/tree/main/OutputImages/AfterResolvingImageRotation.jpg)
+![AfterResolvingImageRotation](OutputImages/AfterResolvingImageRotation.jpg)
 
 To avoid this problem, you can add the image in Android asset folder and refer the image from Android asset to SfImageEditor control as shown in the following screenshot.
 
-![AssetScreenshot](https://github.com/SyncfusionExamples/How-to-resolve-the-default-image-rotation-issue-when-loading-the-image-to-the-Image-Editor-/tree/main/OutputImages/AssetScreenshot.png)
+![AssetScreenshot](OutputImages/AssetScreenshot.png)
 
 Please refer the following steps to resolve the image rotation at load time.
 
@@ -51,7 +51,7 @@ Step3: Set an image to the SfImageEditor control with platform specific code.
  
 [Custom View in Xamarin Image Editor (SfImageEditor)](https://help.syncfusion.com/xamarin/image-editor/customview)
  
-[Image Filter in Xamarin Image Editor (SfImageEditor)])(https://help.syncfusion.com/xamarin/image-editor/imagefilter)
+[Image Filter in Xamarin Image Editor (SfImageEditor)](https://help.syncfusion.com/xamarin/image-editor/imagefilter)
  
 [Customize text with TextSettings in Xamarin Image Editor (SfImageEditor)](https://help.syncfusion.com/xamarin/image-editor/text#customize-text-with-textsettings)
 
