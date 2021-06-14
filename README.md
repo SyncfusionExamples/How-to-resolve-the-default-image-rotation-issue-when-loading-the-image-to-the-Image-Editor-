@@ -13,7 +13,7 @@ After resolving the image rotation at load time.
 
 To avoid this problem, you can add the image in Android asset folder and refer the image from Android asset to SfImageEditor control as shown in the following screenshot.
 
-![AssetScreenshot](OutputImages/AssetScreenshot.png)
+![AssetScreenshot](OutputImages/ImageFolderScreenshot.png)
 
 Please refer the following steps to resolve the image rotation at load time.
 
